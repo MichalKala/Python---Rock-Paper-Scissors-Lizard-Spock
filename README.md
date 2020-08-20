@@ -2,4 +2,6 @@
 
 This is a quick project of mine based on beginner's project suggestions on https://www.codementor.io/@ilyaas97/6-python-projects-for-beginners-yn3va03fs
 
+![alt text](https://github.com/MichalKala/Python---Rock-Paper-Scissors-Lizard-Spock/blob/master/Screenshot.JPG)
+
 
